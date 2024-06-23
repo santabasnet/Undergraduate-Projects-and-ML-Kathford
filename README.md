@@ -2,7 +2,9 @@
 This repo contains lecture matrials and hands on demonstration of Supervised Machine Learning with Naive Bayes classifier. The
 implementation is done through Java Language.
 
-##Sample usage:
+Abstract of the lecture are described in SummaryContent-Kathford.pdf file. 
+
+### Sample usage:
 ```java
         /* Classifier */
         System.out.println("Summary : \n" + Classifier.model.summary());
