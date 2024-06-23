@@ -1,1 +1,1 @@
-# Undergraduate-Projects-and-ML-Kathford
+# Undergraduate-Projects-and-Supervised ML-Kathford
